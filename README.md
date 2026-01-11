@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Playground
 
-Hey there! 👋 Welcome to my **ML playground**, where I’m **learning and experimenting with different machine learning models** using **Python** and **scikit-learn**.  
+Welcome to my **ML playground**, where I’m **learning and experimenting with different machine learning models** using **Python** and **scikit-learn**.  
 
 The goal is simple: I try out different algorithms, see how they work, and **learn by doing**. This repo is beginner-friendly, so if you’re also starting out, you can follow along and see how each model works in practice.  
 
